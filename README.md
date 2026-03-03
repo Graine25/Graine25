@@ -1,5 +1,5 @@
 ## I'm Rien
-![Rien's GitHub stats](![Stats](./profile/stats.svg))
+<!--![Rien's GitHub stats](![Stats](./profile/stats.svg))-->
 
 <!--nightowl 
 **Graine25/Graine25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
