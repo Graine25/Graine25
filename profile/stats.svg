@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Rien G's GitHub Stats, Rank: C+</title>
-        <desc id="descId">Total Stars Earned: 1, Total Commits  (last year) : 18, Total PRs: 13, Total Issues: 7, Contributed to (last year): 4</desc>
+        <desc id="descId">Total Stars Earned: 1, Total Commits  (last year) : 18, Total PRs: 14, Total Issues: 7, Contributed to (last year): 4</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 207.3157029172;
+        stroke-dashoffset: 206.59333124985204;
       }
     }
   
@@ -192,7 +192,7 @@
         x="219.01"
         y="12.5"
         data-testid="prs"
-      >13</text>
+      >14</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
